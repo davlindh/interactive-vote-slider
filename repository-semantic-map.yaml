@@ -1,0 +1,12 @@
+version: 1
+repository: davlindh/interactive-vote-slider
+purpose: Experimental evaluation and voting interaction for nuanced collective assessment.
+status: experimental-reference
+canonical_parent: davlindh/faving-journey-shaper
+capabilities: [evaluation, voting, alignment]
+vertical: platform-research
+omniframez_role: evaluation-experiment
+evidence: {confidence: inferred, sources: [repository-name, repository-history]}
+harvest_action: inspect-and-harvest-unique-capabilities
+relations:
+  - contributes_to: Faving evaluation and trust capabilities
